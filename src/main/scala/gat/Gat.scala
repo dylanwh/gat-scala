@@ -3,9 +3,11 @@ package gat
 import java.nio.file.FileSystems
 import gat.workspace._
 
+/*
 import org.mapdb.DB
 import org.mapdb.DBMaker
 import org.mapdb.Utils
+*/
 
 import java.io.File
 import java.util.concurrent.ConcurrentNavigableMap
